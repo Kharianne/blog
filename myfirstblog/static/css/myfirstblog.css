@@ -1,0 +1,62 @@
+h1, h2 a {
+    margin-top: auto;
+    color: whitesmoke;
+    font-family: 'Oswald', serif;
+    font-size: 48px;
+    font-weight: bold;
+
+
+}
+h2 a {
+    color: rebeccapurple;
+    font-family: 'Oswald', serif;
+    font-size: 40px
+}
+
+a:hover {
+    color: mediumpurple;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Oswald', serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: black;
+    height: 20vh;
+}
+
+
+.post {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-header {
+    background-color: rebeccapurple;
+    color: whitesmoke;
+}
+
+
+.navbar-nav {
+    background-color: rebeccapurple;
+    color: whitesmoke
+}
+
+.container-fluid {
+    background-color: rebeccapurple;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.active {
+    background-color: mediumpurple;
+}
+
+.navbar-nav a:hover {
+    background-color: mediumpurple;
+}
